@@ -78,6 +78,3 @@ at https://codedgar.github.io/Puppertino/.
 
 Puppertino is free to use and abuse under the [open-source MIT license](https://github.com/codedgar/Puppertino/blob/master/LICENSE).
 
-## About the creator
-
-I'm [Edgar Pérez](https://twitter.com/codedgar_dev). And I make cool websites :)
